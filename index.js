@@ -23,5 +23,5 @@ app.get('/', function (req, res) {
 
 
 app.listen(PORT, () => {
-    console.log(`Microservice is running at port ${PORT}`.cyan.bold)
+    console.log(`Server is running at port ${PORT}`.cyan.bold)
 });
