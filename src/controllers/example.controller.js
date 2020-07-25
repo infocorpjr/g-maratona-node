@@ -34,7 +34,7 @@ export const exclude = async (req, res) => {
 
 export const save = async (req, res) => {
 
-    const newData = {
+	const newData = {
 		id: req.id,
 		nome: req.nome
 	};

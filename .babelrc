@@ -11,7 +11,8 @@
         ],
         "alias": {
           "src": "./src/"
-        }
+        },
+        "extensions": [".js",".json"]
       }
     ]
   ]

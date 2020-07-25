@@ -1,5 +1,8 @@
 import express, {json} from 'express';
 
+// https://babeljs.io/docs/en/next/babel-polyfill.html
+import '@babel/polyfill';
+
 const app = express();
 import {config} from 'dotenv';
 import morgan from 'morgan';
