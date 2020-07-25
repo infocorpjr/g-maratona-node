@@ -115,5 +115,5 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
-dist
+.idea
 docker/mysql/run/var
